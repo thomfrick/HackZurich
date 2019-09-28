@@ -1,4 +1,4 @@
-timestamp_cet,air_temperature,precipitation,global_radiation
+Date,air_temperature,precipitation,global_radiation
 2017-01-01 00:00:00,-1.8,0.0,0
 2017-01-01 00:05:00,-1.8,0.0,0
 2017-01-01 00:10:00,-1.6,0.0,0
